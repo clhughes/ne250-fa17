@@ -1,3 +1,20 @@
+### Article #3
+
+
+**Summary:**
+This is a detailed overview article of MSR technology.
+It begins with a list of operational and safety advantages of MSRs over solid fuel designs.
+LeBlanc then describes the history and design of MSRs as well as the increasing interest in MSR technology and changing design criteria.
+
+**Pros:**
+This paper is a great resource for a crash course on MSRs.
+The diagrams are extremely clear and helpful references for understanding how MSRs work.
+
+**Cons:**
+In discussing the advantages of MSRs over solid fuel designs, LeBlanc glosses over features (i.e. plating out noble and seminoble metals) that I don't believe are fully developed for actual construction.
+I also think it's important to note that we don't have sufficient chlorine cross section data to model chloride salts.
+This is something I feel that we in the reactor design community consistently overlook.
+
 ***
 ### Article #2
 Energy Options Network, "What will advanced nuclear power plants cost?"
