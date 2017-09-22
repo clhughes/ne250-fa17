@@ -1,5 +1,18 @@
-### Article #3
+Article #4
 
+**Summary:**
+This article describes a process by which transuranic or fission product transmutation can be used to produce fission products with short or long half lives or to transform toxic fission products into shorter-lived fission products.
+
+**Pros:**
+This paper address an important issue of clean spent nuclear fuel.
+I think this work also has very interesting possibility for safeguards applications -- transmuting isotopes used to produce nuclear weapons into other isotopes.
+
+**Cons:**
+Pages three and four of the paper were dedicated to charts that (I thought) seemed illegible, especially electronically.
+There was little reference to or explanation of the purpose of including these charts, which I think could have been more helpful if they had included annotations showing which decays were of most interest.
+
+***
+### Article #3
 
 **Summary:**
 This is a detailed overview article of MSR technology.
