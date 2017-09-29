@@ -1,4 +1,21 @@
-Article #4
+### Article #5
+
+**Summary:**
+This article proposes a "deep-burn" transmuter to transmute the transuranic (TRU) component of LWR waste in "one pass" using a gas-cooled modular helium reactor.
+The paper begins by describing the proliferation risks associated with nuclear waste (it's interesting to note that this paper was written in 2002, and the authors describe Yucca Mountain contemporaneously) and introducing the design concept.
+There is discussion of using thermal neutrons for transmutation as well as the TRISO particle fuel.
+
+**Pros:**
+It's really great to see a paper considering safeguards during reactor design.
+It's also interesting to see a paper practically consider transmutation (considering favorable cross sections, etc.) after reading Article #4, which provided a process for evaluating potential transmutation processes.
+
+**Cons:**
+This paper provides a good overview of the deep-burn concept and technology.
+It would be interesting to see more detail about economics of this design and practical steps that would need to be taken to make this a reality as well as the authors' future plans for work on deep-burn transmutation.
+It would also be interesting to see some discussion of the Np isotopes.
+
+
+### Article #4
 
 **Summary:**
 This article describes a process by which transuranic or fission product transmutation can be used to produce fission products with short or long half lives or to transform toxic fission products into shorter-lived fission products.
