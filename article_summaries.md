@@ -1,3 +1,18 @@
+### Article #6
+
+**Summary:**
+This article proposes accident tolerant fuel for advanced reactor design.
+The motivation of this work was the accident at the Fukushima Daichii power plant in March 2011.
+The authors provide a lot of background on why this is important work and which industry stakeholders are interested in the 
+They give a very detailed account of the neutronics simulations performed for this work.
+
+**Pros:**
+This work is clearly very important and applicable.
+
+**Cons:**
+There are a lot of plots in this paper and little explanation of why they are important.
+
+***
 ### Article #5
 
 **Summary:**
@@ -14,7 +29,7 @@ This paper provides a good overview of the deep-burn concept and technology.
 It would be interesting to see more detail about economics of this design and practical steps that would need to be taken to make this a reality as well as the authors' future plans for work on deep-burn transmutation.
 It would also be interesting to see some discussion of the Np isotopes.
 
-
+***
 ### Article #4
 
 **Summary:**
