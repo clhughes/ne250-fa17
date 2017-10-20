@@ -1,3 +1,23 @@
+### Article #8
+
+**Summary:**
+This paper describes how SCALE6 can be used to generate problem-dependent cross sections from ENDF's problem-independent cross section data.
+This can include effects such as Doppler broadening, response due to a constant flux, epithermal scatering, etc.
+The paper first describes the computational methods used and then discusses verification and validation studies, using the boiling water reactor lattice cell at hot full power as an example.
+
+**Strengths:**
+This paper was interesting because I have read a lot of papers that mention that cross sections need to be generated for deterministic calculations, but I never really knew what that meant or what it involved before reading this paper.
+
+**Weaknesses:**
+I was expecting the author to go into more detail about where the cross sections come from and how they are measured.
+I was also hoping for more discussion surrounding the uncertainty in cross section data and how it limits computational capabilities.
+The author also assumes that the reader knows why this work is relevant and important.
+
+### Article #7
+
+(presentation available on bcourses)
+
+***
 ### Article #6
 
 **Summary:**
