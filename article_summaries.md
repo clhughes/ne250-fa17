@@ -1,3 +1,17 @@
+### Article #9
+
+**Summary:**
+This article explores how wind, solar, and nuclear power can be used to achieve a low-carbon electricity grid while minimizing total costs while meeting market demand.
+When demand is low, the most cost-efficient methods are used to produce electricity, while when demand is high, other less efficient methods are added.
+The author describes technology categories that can economically meet demand, including electricity storage, firebrick resistance-heated energy storage, reactor assisted thermal heat storage, nuclear plant with thermodynamic topping cycleusing firebrick resistance-heated energy storage,and hybrid heat from a nuclear or thermal solar plant.
+
+**Strengths:**
+I appreciate that this paper includes R&D options to shape future research plans and goals.
+
+**Weaknesses:**
+I think this paper could have been more concise yet also thought that the author could have included more detail on how licensing costs would effect market competitiveness.
+
+***
 ### Article #8
 
 **Summary:**
@@ -13,6 +27,7 @@ I was expecting the author to go into more detail about where the cross sections
 I was also hoping for more discussion surrounding the uncertainty in cross section data and how it limits computational capabilities.
 The author also assumes that the reader knows why this work is relevant and important.
 
+***
 ### Article #7
 
 (presentation available on bcourses)
