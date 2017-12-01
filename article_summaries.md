@@ -1,3 +1,49 @@
+***
+### Article #12
+
+**Summary:**
+This article is written by serpent father Jaakko Leppanen and describes the performance of serpent's approach to Woodcock delta-tracking for Monte Carlo calculations.
+It begins by describing how the delta-tracking routine works, how it's implemented in the Serpent code, and the performance of the code in four cases which focus on calculating homogenized multigroup constants and isotropic transmutation cross sections.
+
+**Strengths:**
+This paper is extremely interesting because it describes a major improvement that Serpent makes on other Monte Carlo codes by using delta-tracking rather than surface-to-surface ray-tracing.
+It explains why Serpent was quickly adopted as a popular Monte Carlo code for reactor design applications: in addition to simplified geometry definitions specific to reactors, delta-tracking is an excellent strategy for modeling complex geometries.
+
+**Weaknesses:**
+I think that the description of delta tracking could have been made more clear by including a simple diagram of how it works at material boundaries.
+I think that plots would have been more useful than tables of group constants in comparing the performance when delta-tracking was and was not used than.
+
+***
+### Article #11
+
+**Summary:**
+This paper describes the development of a parallel three-dimensional discrete ordinates algorithm for the Thinking Machine's Connection Machine model CM-200 computer.
+It starts by defining the transport equation and its terms and then describes the desired mesh that will be used to solve the problem.
+The authors continue to describe the CM-200 architecture and then how an ordered $S_n$ sweep can be implemented on it.
+
+**Strengths:**
+The explicit definition of every term in the transport equation was helpful, as were the diagrams used to describe how the diagonal line and diagonal plane sweeps work.
+
+**Weaknesses:**
+This paper gave very little background on discrete ordinates or why an $S_n$ algorithm on a massively parallel computer is necessary.
+I thought the results tables were clear but that plots could have been more helpful in comparing performance.
+
+***
+### Article #10
+
+**Summary:**
+This paper describes plutonium multirecycling in standard PWRs loaded with evolutionary fuels.
+This means that the Pu created during the irradiation of UO$_2$ fuel is reused in MOX fuel (called "monorecycling" if the process ends after this step) and then the additional Pu generated after irradiating the MOX fuel is recycled again into MOX fuel.
+
+**Strengths:**
+It's interesting to read a paper on fuel reprocessing written by researchers in France, where this is actually done.
+It's a really intersting concept.
+
+**Weaknesses:**
+I'd be curious about the cost-benefit analysis of multireprocessing -- is it worth it?
+I'm also curious about the proliferation risks of reprocessing multiple times.
+
+***
 ### Article #9
 
 **Summary:**
